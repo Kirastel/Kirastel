@@ -21,7 +21,7 @@ I am currently in the process of looking for my first job as a Python developer.
 * Optimization requests 
 
 
-
+My codewars profile - https://www.codewars.com/users/KiRastel
 
 
 <div align="center" style="margin: 40px 0">
