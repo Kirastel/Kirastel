@@ -12,14 +12,9 @@ I am currently in the process of looking for my first job as a Python developer.
 *   Python
 *   Django framework
 *   Django rest
-*   MySQL
+*   MySQL, PostgreSQL
 *   GitHub
 
-### What I do in pet projects:
-
-* Creating websites with django framework
-* Make ORM requests in django
-* Optimization requests 
 
 
 My codewars profile - https://www.codewars.com/users/KiRastel
