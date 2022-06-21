@@ -1,7 +1,7 @@
 
 
 
-# Hi, I'm Sergey 👋
+# Hi 👋
 I am currently in the process of looking for my first job as a Python developer.
 
 
