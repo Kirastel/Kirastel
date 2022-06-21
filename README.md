@@ -14,6 +14,8 @@ I am currently in the process of looking for my first job as a Python developer.
 *   Django rest
 *   MySQL, PostgreSQL
 *   GitHub
+*   Docker
+*   JavaScript
 
 
 
