@@ -11,7 +11,7 @@ I am currently in the process of looking for my first job as a Python developer.
 ## 🛠 Technical Stack
 *   Python
 *   Django framework
-*   Django rest
+*   restAPI
 *   MySQL, PostgreSQL
 *   GitHub
 *   Docker
