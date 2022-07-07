@@ -19,7 +19,8 @@ I am currently in the process of looking for my first job as a Python developer.
 
 [![My Skills](https://skills.thijs.gg/icons?i=python,js,html,css,docker,git,mysql)]()
 
-![CodeWars](https://www.codewars.com/users/KiRastel/badges/large)
+
+
 
 
 <div align="center" style="margin: 40px 0">
@@ -28,3 +29,8 @@ I am currently in the process of looking for my first job as a Python developer.
    </a>
 </div>
 
+<div align="center" style="margin: 80px 0">
+   <a href="https://www.codewars.com/users/KiRastel">
+       <img width="350px" src="https://www.codewars.com/users/KiRastel/badges/large">
+   </a>
+</div>
