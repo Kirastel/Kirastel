@@ -18,6 +18,7 @@ I am currently in the process of looking for my first job as a Python developer.
 *   JavaScript
 
 [![My Skills](https://skills.thijs.gg/icons?i=python,js,html,css,docker,git,mysql)]()
+
 ![CodeWars](https://www.codewars.com/users/KiRastel/badges/large)
 
 
