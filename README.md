@@ -17,7 +17,7 @@ I am currently in the process of looking for my first job as a Python developer.
 *   Docker
 *   JavaScript
 
-[![My Skills](https://skills.thijs.gg/icons?i=python,js,html,css,docker,git,mysql)]()
+
 
 
 
