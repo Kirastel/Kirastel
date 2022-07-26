@@ -2,7 +2,7 @@
 
 
 # Hi 👋
-I am currently in the process of looking for my first job as a Python developer.
+I am a python junior developer.
 
 
 
@@ -11,9 +11,10 @@ I am currently in the process of looking for my first job as a Python developer.
 ## 🛠 Skills
 *   Python
 *   Django framework
-*   restAPI
+*   DRF
+*   Fast API
 *   MySQL, PostgreSQL
-*   GitHub
+*   Git
 *   Docker
 *   JavaScript
 
