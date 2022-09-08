@@ -13,7 +13,7 @@ I am a python junior developer.
 *   Django framework
 *   DRF
 *   Fast API
-*   MySQL, PostgreSQL
+*   SQL
 *   Git
 *   Docker
 *   JavaScript
