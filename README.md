@@ -3,9 +3,3 @@
        <img width="175px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
    </a>
 </div>
-
-<div align="center" style="margin: 80px 0">
-   <a href="https://www.codewars.com/users/KiRastel">
-       <img width="350px" src="https://www.codewars.com/users/KiRastel/badges/large">
-   </a>
-</div>
